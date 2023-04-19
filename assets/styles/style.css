@@ -1,0 +1,23 @@
+.main {
+    width: 100%;
+    height: 100vh;
+}
+
+.idd {
+    margin-top: 100px;
+}
+
+.main img {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.main p {
+    position: absolute;
+    bottom: 150px;
+    color: red;
+    background-color: rgba(99, 73, 73, 0.392);
+ 
+
+}
